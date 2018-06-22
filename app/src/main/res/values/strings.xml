@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RegisterApplication</string>
+    <string name="contentScrollView">Tela de registro</string>
+    <string name="contentFieldName">Campo Nome. Digite aqui seu nome</string>
+    <string name="hintName">Nome</string>
+    <string name="contentFieldAddress">Campo Endereço. Digite seu endereço.</string>
+    <string name="hintAddress">Endereço</string>
+    <string name="contentFieldState">Campo Estado. Digite seu estado.</string>
+    <string name="hintState">Estado</string>
+    <string name="contentFieldCity">Campo Cidade. Digite sua cidade.</string>
+    <string name="hintCity">Cidade</string>
+    <string name="contentFieldEmail">Campo Email. Digite seu email.</string>
+    <string name="hintEmail">Email</string>
+    <string name="contentFieldMobileNumber">Campo Número de telefone. Digite o número do seu telefone.</string>
+    <string name="hintMobileNumber">Número de telefone</string>
+    <string name="contentFieldPassword">Campo senha. Digite uma senha.</string>
+    <string name="hintPassword">Senha</string>
+    <string name="contentFieldRe_enterPassword">Campo para repetir senha. Repita sua senha</string>
+    <string name="hintRe_enterPassword">Repita sua senha</string>
+    <string name="contentFieldSignUp">Botão Cadastrar. Clique para se cadastrar depois de preencher todos os campos</string>
+    <string name="txtSignUp">Cadastrar</string>
+    <string name="txtAlreadyMember">Já tem cadastro? Faça seu login</string>
+    <string name="contentAlreadyMember">Se você já é cadastrado, clique aqui!</string>
+</resources>
